@@ -1,2 +1,2 @@
 # graphyne
-A simple cypher inspired query interface fur gun.js
+A simple cypher inspired query interface for javascript
